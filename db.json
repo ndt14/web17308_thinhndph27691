@@ -1,0 +1,27 @@
+{
+  "users": [
+    {
+      "name": "Phuong Thuy",
+      "username": "phuongthuy123",
+      "email": "phuongthuy@gmail.com",
+      "phone": "9956976967",
+      "id": 1
+    },
+    {
+      "id": 2
+    },
+    {
+      "name": "Hoang Hai",
+      "username": "hoanghai123",
+      "email": "hoanghai@gmail.com",
+      "phone": "9956976967",
+      "id": 3
+    },
+    {
+      "id": 4
+    },
+    {
+      "id": 6
+    }
+  ]
+}
